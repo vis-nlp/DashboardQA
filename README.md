@@ -106,7 +106,7 @@ python evaluate_predictions.py --predictions-folder path/to/your/model/outputs -
 
 **Arguments:**
 - `--predictions-folder`: Path to the folder containing prediction results
-- `--dataset-name`: HuggingFace dataset name (e.g., `ahmed-masry/DashboardQA-v0.5`)
+- `--dataset-name`: HuggingFace dataset name (e.g., `ahmed-masry/DashboardQA`)
 
 ---
 
