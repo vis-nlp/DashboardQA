@@ -101,7 +101,7 @@ You may need to adjust paths, environment variables, and arguments based on your
 After completing inference, evaluate the generated predictions using our evaluation script (adapted from [ChartQAPro](https://github.com/vis-nlp/ChartQAPro)):
 
 ```bash
-python evaluate_predictions.py --predictions-folder path/to/your/model/outputs --dataset-name ahmed-masry/DashboardQA-v0.5
+python evaluate_predictions.py --predictions-folder path/to/your/model/outputs --dataset-name ahmed-masry/DashboardQA
 ```
 
 **Arguments:**
