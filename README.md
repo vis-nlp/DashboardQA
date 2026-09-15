@@ -121,13 +121,26 @@ We extend our gratitude to the authors of [OSWorld](https://github.com/xlang-ai/
 If you find this work useful in your research, please consider citing our paper:
 
 ```bibtex
-@misc{kartha2025dashboardqabenchmarkingmultimodalagents,
-      title={DashboardQA: Benchmarking Multimodal Agents for Question Answering on Interactive Dashboards}, 
-      author={Aaryaman Kartha and Ahmed Masry and Mohammed Saidul Islam and Thinh Lang and Shadikur Rahman and Ridwan Mahbub and Mizanur Rahman and Mahir Ahmed and Md Rizwan Parvez and Enamul Hoque and Shafiq Joty},
-      year={2025},
-      eprint={2508.17398},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL},
-      url={https://arxiv.org/abs/2508.17398}, 
+@inproceedings{kartha-etal-2026-dashboardqa,
+    title = "{D}ashboard{QA}: Benchmarking Multimodal Agents for Question Answering on Interactive Dashboards",
+    author = "Kartha, Aaryaman  and
+      Masry, Ahmed  and
+      Islam, Mohammed Saidul  and
+      Lang, Thinh  and
+      Rahman, Shadikur  and
+      Mahbub, Ridwan  and
+      Rahman, Mizanur  and
+      Ahmed, Mahir  and
+      Parvez, Md Rizwan  and
+      Hoque, Enamul  and
+      Joty, Shafiq",
+    booktitle = "Findings of the {A}ssociation for {C}omputational {L}inguistics: {EACL} 2026",
+    month = mar,
+    year = "2026",
+    address = "Rabat, Morocco",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2026.findings-eacl.177/",
+    doi = "10.18653/v1/2026.findings-eacl.177",
+    pages = "3385--3407"
 }
 ```
